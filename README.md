@@ -12,3 +12,5 @@ Here’s how to use the Translate Text API:
 7. Lastly, translate the text with the translate_text function
 
 Note: The API requires a source language code and a target language code. For a list of supported languages, check out the AWS website: https://docs.aws.amazon.com/translate/latest/dg/what-is-languages.html
+
+From my article: https://medium.com/@zamandigital/getting-started-with-aws-translatetext-in-python-sdk-4ee8394e027a
